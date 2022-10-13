@@ -1,0 +1,40 @@
+
+
+html{
+    background-color:#2d67f0;
+}
+body{
+    text-align: center;
+    width:600px;
+    margin: 10px auto;
+    background-color:#ebeb64;
+    border: 5px solid black;
+}
+h1{
+    font-size: 64px;
+}
+ul{
+  
+    margin-bottom: 48px;
+}
+div{
+    text-align:left;
+    font-size:48px;
+}
+p{
+    font-size: 32px;
+    margin: 0;
+}
+
+li{
+    width: fit-content;
+    margin: 0 auto;
+    font-size:24px;
+    line-height:36px;
+    letter-spacing:1px;
+}
+
+img{
+    width:80%;
+    height:auto;
+}
